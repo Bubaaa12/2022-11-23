@@ -5,7 +5,7 @@ SELECT`orszag`  FROM `orszagok` WHERE `fovaros`="OUAGADOUGOU";
 Melyik ország autójele a TT?
 SELECT  `orszag`FROM `orszagok` WHERE `autojel`="TT"
 Melyik ország pénzének jele az SGD?
-SELECT  `orszag`FROM `orszagok` WHERE `penznem`="SGD"
+SELECT  `orszag`FROM `orszagok` WHERE `penzjel`="SGD"
 Melyik ország nemzetközi telefon-hívószáma a 61?
 SELECT  `orszag`FROM `orszagok` WHERE `telefon`=61
 Mekkora területű Monaco?
